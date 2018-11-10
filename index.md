@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Iqrah says Hello!
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 You can use the [editor on GitHub](https://github.com/iiqrah/GUH-18-GitHub-Workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
